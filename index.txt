@@ -1,0 +1,8 @@
+hello this is git index html file
+<<<<<<< HEAD
+hiii hello kese ho aaap
+=======
+this file is for design a website
+>>>>>>> ui
+
+hii i am orachi hehs sj
